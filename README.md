@@ -97,3 +97,5 @@ Used as a foundation for advanced data structures like stacks, queues, and graph
 
 ** OUTPUT OF THE TASK
 
+![Image](https://github.com/user-attachments/assets/332de282-571e-42e9-9e7f-aa0ad3538214)
+
